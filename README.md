@@ -8,7 +8,7 @@ I am using BeautifulSoup and Splinter to scrape full-resolution images of Mars' 
 ### Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 Used BeautifulSoup and Splinter to scrape the full-resolution images of Mars' hemispheres and titles of these images. Created a list of dictionary items holding the URLs leading to these images and their respective titles (as seen below). 
 
-# ![img1]()
+# ![img1](https://github.com/Soniaprogram/Mission-to-Mars/blob/main/images/Del1.PNG)
 
 **Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles**
 Using Python and HTML, I updated my Mongo database and index.html flie so the webpage will display the Mars' hemispheres full-resolution images and their respective titles. 
@@ -17,4 +17,4 @@ Using Python and HTML, I updated my Mongo database and index.html flie so the we
 **Deliverable 3: Add Bootstrap 3 Components**
 I used Bootstrap components to polish and customize the web app as shown below. 
 
-# ![img2]()
+# ![img2](https://github.com/Soniaprogram/Mission-to-Mars/blob/main/images/Del3.PNG)
