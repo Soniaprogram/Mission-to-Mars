@@ -10,11 +10,11 @@ Used BeautifulSoup and Splinter to scrape the full-resolution images of Mars' he
 
 # ![img1](https://github.com/Soniaprogram/Mission-to-Mars/blob/main/images/Del1.PNG)
 
-**Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles**
+## Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 Using Python and HTML, I updated my Mongo database and index.html flie so the webpage will display the Mars' hemispheres full-resolution images and their respective titles. 
 
 
-**Deliverable 3: Add Bootstrap 3 Components**
+## Deliverable 3: Add Bootstrap 3 Components
 I used Bootstrap components to polish and customize the web app as shown below. 
 
 # ![img2](https://github.com/Soniaprogram/Mission-to-Mars/blob/main/images/Del3.PNG)
